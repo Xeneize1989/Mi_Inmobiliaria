@@ -8,4 +8,4 @@ El anteproyecto está definido en este documento[1]
 En la carpeta Mockups se encuentran los mockups de la app.
 
 # Historias de Usuario
-En el proyecto de Github PP3 User Stories se pueden ver las historias de usuario de esta app.
+En el proyecto de Github [PP3 User Stories](https://github.com/Xeneize1989/Mi_Inmobiliaria/projects/1) se pueden ver las historias de usuario de esta app.
