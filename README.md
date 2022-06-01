@@ -2,7 +2,7 @@
 Repositorio para el proyecto de PP3 del IFTS18
 
 # Anteproyecto
-El anteproyecto está definido en este documento[1]
+El anteproyecto está definido en este [documento](https://github.com/Xeneize1989/Mi_Inmobiliaria/blob/main/Ante%20Proyecto%20Final%20-%20Mi%20Inmobiliaria.pdf)
 
 # Mockups
 En la carpeta Mockups se encuentran los mockups de la app.
